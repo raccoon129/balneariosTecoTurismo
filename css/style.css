@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+body {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* Peso de fuente predeterminado */
+  font-style: normal;
+}
+
+.kumbh-sans-titulo {
+  font-weight: 700; /* Peso de fuente más grueso para títulos */
+}
